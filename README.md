@@ -7,4 +7,4 @@ _/ __ \  | __ \ \   __\ _/ __ \
      \/      \/              \/ 
 ```
 
-`ztgij://cuctdgbye.fnigr.up/`
+`ztgij://tukaauoxuavyaynmfis.kuezv.su/`
