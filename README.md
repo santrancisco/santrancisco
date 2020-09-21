@@ -7,9 +7,11 @@ _/ __ \  | __ \ \   __\ _/ __ \
      \/      \/              \/ 
 ```
 
-`ztgij://tukaauoxuavyaynmfis.kuezv.su/`
+Here is a fun challenge/ctf i made:
+
+`dsolo://sceohnwbtiydzghamba.otmca.rc/ejczt.dshh`
 
 
 <div>
-  <img align="left" width="35%" height="35%" src="https://test.ebfe.pw/svg1.svg">
+  <img align="left" width="35%" height="35%" src="https://en.wikipedia.org/wiki/Kryptos#/media/File:Kryptos_sculptor.jpg">
 </div>
