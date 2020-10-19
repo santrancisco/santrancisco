@@ -13,4 +13,4 @@ Here is a fun challenge/ctf i made:
 
 Here is the hint (a broken image url?):
 
-![cia](https://[REMOVE_this_to_get_the_right_url_for_hint].upload.wikimedia.org/wikipedia/commons/e/e0/Kryptos_sculptor.jpg)
+![Hint: viewsource/inspectelement](https://[REMOVE_this_to_get_the_right_url_for_hint].upload.wikimedia.org/wikipedia/commons/e/e0/Kryptos_sculptor.jpg)
