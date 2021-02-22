@@ -12,7 +12,7 @@ This is where i store my public code. Even though I spent most of my time in the
 
 Since you are here, i made a quick & fun challenge/ctf:
 
-`fjmah://vjybepczg.qkkrt.lj/`
+`fjmah://axtwacdzp.hshzp.hf`
 
 Here is the hint:
 
